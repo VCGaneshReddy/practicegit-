@@ -1,1 +1,1 @@
-print("from temp file")
+a=20
